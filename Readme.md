@@ -39,4 +39,5 @@
 * membership operator 
 * loop 
 * Arthmatic operator 
-* 
+* Boolean Indexing in series 
+* Ploting graph on series 
