@@ -11,6 +11,7 @@
 * sort_values -> how to calculate max runs of virt kohli 
 * sort_index   -> if you sort the alphabetical character than use to sort_index not used in number 
 * count() -> count is function, count function is not count to Nan value but size method are count 
+### mathmatical method 
 * size -> size is method 
 * mean 
 * median
