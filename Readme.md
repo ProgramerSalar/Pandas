@@ -1,0 +1,3 @@
+# pandas 
+## pandas function 
+* Series 
