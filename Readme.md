@@ -10,6 +10,17 @@
 * value_counts -> which acter are how many movie || calculate the count of data  
 * sort_values -> how to calculate max runs of virt kohli 
 * sort_index   -> if you sort the alphabetical character than use to sort_index not used in number 
+* count() -> count is function, count function is not count to Nan value but size method are count 
+* size -> size is method 
+* mean 
+* median
+* mode 
+* std 
+* var 
+* min
+* max   
+* describe  -> give the all paramer like [count, mean, std, etc....]
+
 
 ## pandas attribute 
 * size -> how many itams found 
