@@ -23,6 +23,8 @@
 * describe  -> give the all paramer like [count, mean, std, etc....]
 
 
+
+
 ## pandas attribute 
 * size -> how many itams found 
 * dtype
@@ -31,3 +33,10 @@
 * index -> index of data 
 * values -> value of data 
 
+### series indexing 
+### Editing Data 
+### Series with python Functionality 
+* membership operator 
+* loop 
+* Arthmatic operator 
+* 
