@@ -1,4 +1,5 @@
 # pandas 
+* in pandas object means string 
 ## pandas function 
 * Series 
 
@@ -57,7 +58,23 @@
 
 
 
-## Attribute 
+## DataFrame 
+
+### Method 
+* head
+* tail 
+* sample -> get the random data 
+* info  -> get the summary of the data 
+* describe  -> describe the data 
+* isnull     -> true means null value are found 
+* duplicate -> copy of the rows 
+* rename  -> rename the column of data 
 
 
 
+### Attribute 
+* shape 
+* dtype 
+* index    -> fetch the row
+* columns   -> fetch the column
+* values     -> get the values of data in 2D
