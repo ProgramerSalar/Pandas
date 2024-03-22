@@ -41,3 +41,22 @@
 * Arthmatic operator 
 * Boolean Indexing in series 
 * Ploting graph on series 
+
+
+### Some Important Series Method 
+* astype   -> type of data for example: int64, float32 etc...
+* between
+* clip      -> give the range 
+* drop_duplicates  -> drop the duplicate item in list 
+* isnull
+* dropna    -> drop the null value 
+* fillna    -> fill null value 
+* isin        -> ex- 49 is found the data or not 
+* apply
+* copy
+
+
+
+
+
+
