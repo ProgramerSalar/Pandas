@@ -78,3 +78,7 @@
 * index    -> fetch the row
 * columns   -> fetch the column
 * values     -> get the values of data in 2D
+* iloc   -> fetch row 
+* loc    -> index data give 
+
+
