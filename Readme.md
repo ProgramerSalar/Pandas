@@ -69,6 +69,8 @@
 * isnull     -> true means null value are found 
 * duplicate -> copy of the rows 
 * rename  -> rename the column of data 
+* astype
+* value_count
 
 
 
@@ -80,5 +82,28 @@
 * values     -> get the values of data in 2D
 * iloc   -> fetch row 
 * loc    -> index data give 
+* contains
 
 
+
+### Most Important Function 
+* value_counts    -> count the values 
+* sort_values      -> arrange the item in ascending/descending order 
+* rank           -> arrange the order in rank wise 
+* sort index      -> arrange the index ascending/descending order
+* set index       -> set the index 
+* rename index -> rename
+* reset index     -> reset the data index 
+* unique & nunique    -> nunique means no of unique item 
+* isnull/notnull/hasnans 
+    * hasnans ->  ye ek row me nan value batata hai boolean me
+* dropna
+* fillna
+* drop_duplicates
+* drop
+* apply
+* isin
+* corr
+* nlargest -> nsmallest
+* insert
+* copy
