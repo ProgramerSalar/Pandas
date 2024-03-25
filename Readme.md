@@ -118,7 +118,7 @@
 ### GroupBy Attributes and Methods 
 * find total number of groups -> len
 * find items in each group -> size 
-* first()/last() -> nth item 
+* first()/last() -> nth item    
 * get_group -> vs filtering 
 * groups 
 * describe 
