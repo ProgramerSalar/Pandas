@@ -112,3 +112,15 @@
 
 ### Groupy BY Objects 
 * groupby  -> this method are grouped by two item 
+- what is mean ? 
+* average column value 
+
+### GroupBy Attributes and Methods 
+* find total number of groups -> len
+* find items in each group -> size 
+* first()/last() -> nth item 
+* get_group -> vs filtering 
+* groups 
+* describe 
+* sample 
+* nunique
