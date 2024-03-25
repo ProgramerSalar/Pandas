@@ -97,13 +97,18 @@
 * unique & nunique    -> nunique means no of unique item 
 * isnull/notnull/hasnans 
     * hasnans ->  ye ek row me nan value batata hai boolean me
-* dropna
-* fillna
-* drop_duplicates
-* drop
-* apply
-* isin
-* corr
-* nlargest -> nsmallest
-* insert
-* copy
+* dropna    -> drop the null value
+* fillna    -> fill the null value
+* drop_duplicates   -> drop the duplicates value of data 
+* drop            -> drop the value using indexing
+* apply     -> apply is method which is customise the function in data 
+* isin      -> column are is in data or not give the True False 
+* corr      ->  correlation of column in data 
+* nlargest -> nsmallest  
+* insert   -> insert the row | col in data 
+* copy     -> copy the whole data 
+
+
+
+### Groupy BY Objects 
+* groupby  -> this method are grouped by two item 
