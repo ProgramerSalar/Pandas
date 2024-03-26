@@ -170,3 +170,6 @@ what is the uses of multiIndexing b/c if your data is more then 2D this is Multi
 * isdigit 
 * contains    
 
+
+## ## Date and time in pandas 
+notebook:https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing#scrollTo=pnlcKZAWwBWv
