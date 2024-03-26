@@ -124,3 +124,17 @@
 * describe 
 * sample 
 * nunique
+
+
+## groupby_objects
+## Merging, Joining & Concatenating
+* merging 
+how to use merge 
+![alt text](<Screenshot 2024-03-25 202242.png>)
+
+students.merge(regs,how='inner',on='student_id')
+students.merge(regs,how='left',on='student_id')
+inner -> join the common side of data 
+left -> join the data but left side are first priority 
+
+
