@@ -138,3 +138,7 @@ inner -> join the common side of data
 left -> join the data but left side are first priority 
 
 
+## MultiINdexing Series 
+what is the uses of multiIndexing b/c if your data is more then 2D this is MultiIndexing, you should convert 2D, 1D Data 
+* Stack -> column ko index bana deta hai 
+* unstack -> index ko column bana deta hai
