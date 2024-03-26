@@ -156,4 +156,17 @@ what is the uses of multiIndexing b/c if your data is more then 2D this is Multi
 
 
 
+## ## Pandas String 
+* startwith 
+* upper
+* capitalize
+* title 
+* len 
+* strip    -> remove the space 
+* get     -> get the value 
+* split   
+* replace 
+* endswith 
+* isdigit 
+* contains    
 
