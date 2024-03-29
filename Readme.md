@@ -175,4 +175,5 @@ what is the uses of multiIndexing b/c if your data is more then 2D this is Multi
 notebook:https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing#scrollTo=pnlcKZAWwBWv
 
 ## ## plotly 
+notebook: https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing#scrollTo=t_Guc6Hx0Bsc
 
